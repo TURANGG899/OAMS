@@ -7,6 +7,12 @@
 * CRISABELLE REQUIERME
 * HONIELYN TORRES
 
+Project Description:
+- Tracks Company assets
+- Assignments
+- Maimtenance
+- Depreciation Status 
+
 **Prerequisites**
 * Python 3.8+ (pthon -- version)
 * Git for Windows v2.53.0(2) Release Notes
@@ -14,3 +20,9 @@
 * Wed browser (chrome, Edge)
 
 **Installation & Set up**
+- python
+- Flask
+- Pip
+
+Module Desciprtion:
+Module 1:

@@ -26,3 +26,7 @@ Project Description:
 
 Module Desciprtion:
 Module 1:
+
+Step 1:Clone or downlod the project fiies
+Step 2:Navigate to the project folder
+Step 3:Run the project using: pyhthon main.py
